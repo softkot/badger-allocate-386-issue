@@ -1,4 +1,4 @@
-module btest
+module github.com/softkot/badger-allocate-386-issue
 
 go 1.26.2
 
